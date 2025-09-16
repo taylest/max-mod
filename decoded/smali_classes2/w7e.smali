@@ -1,0 +1,39 @@
+.class public final Lw7e;
+.super Ljava/lang/Object;
+.source "SourceFile"
+
+
+# instance fields
+.field public final a:Lapc;
+
+.field public final b:Llh;
+
+.field public final c:Lroc;
+
+
+# direct methods
+.method public constructor <init>(Lru/ok/tamtam/android/db/room/OneMeRoomDatabase;)V
+    .locals 2
+
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    iput-object p1, p0, Lw7e;->a:Lapc;
+
+    new-instance v0, Llh;
+
+    const/16 v1, 0x18
+
+    invoke-direct {v0, p1, v1}, Llh;-><init>(Lapc;I)V
+
+    iput-object v0, p0, Lw7e;->b:Llh;
+
+    new-instance v0, Lroc;
+
+    const/4 v1, 0x6
+
+    invoke-direct {v0, p1, v1}, Lroc;-><init>(Lapc;I)V
+
+    iput-object v0, p0, Lw7e;->c:Lroc;
+
+    return-void
+.end method
