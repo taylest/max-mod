@@ -4,7 +4,7 @@
 
 ## 🇷🇺
 
-Это модифицированная версия мессенджера **MAX**, с улучшенной конфиденциальностью и минималистичными настройками.
+Это модифицированная версия мессенджера **MAX**, с улучшенной конфиденциальностью и некоторыми изменениями.
 
 **Особенности:**
 
@@ -62,7 +62,7 @@ This is a **privacy-focused modified version** of the MAX Messenger.
 
 **Features:**
 
-- Removes access to **location, Bluetooth, camera, files, analytics**, and other suspicious features.
+- Removes access to **location, Bluetooth, camera, files, analytics**, and some other changes.
 - Changes some **chat texts** for a cleaner experience.
 - Focus on **user privacy and simplicity**.
 
